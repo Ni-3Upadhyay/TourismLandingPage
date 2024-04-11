@@ -23,7 +23,7 @@ body{
 .homeContainer{
     min-height: 50%;
     width: 100%;
-    background-image: url(/images/Scribble\ Dark.png), url(/images/Scribble\ Lightest.png);;
+    background-image: url(images/Scribble\ Dark.png), url(images/Scribble\ Lightest.png);;
     background-size: 10% 30%, 50% 80%;
     background-repeat: no-repeat, no-repeat;
     background-position: bottom right, bottom left;
@@ -179,7 +179,7 @@ li a{
     overflow: visible;
     padding: 2%;
 
-    background-image: url(/images/Scribble\ Light\ left.png), url(/images/Scribble\ Light\ right.png);
+    background-image: url(images/Scribble\ Light\ left.png), url(images/Scribble\ Light\ right.png);
     background-size: 30% 30%, 30% 30%;
     background-repeat: no-repeat, no-repeat;
     background-position: left top , right bottom;
@@ -211,7 +211,7 @@ li a{
     display: flex;
     justify-content: space-around;
 
-    background-image:url(/images/Scribble\ Dark\ left.png),  url(/images/Scribble\ Dark\ \ right.png);
+    background-image:url(images/Scribble\ Dark\ left.png),  url(images/Scribble\ Dark\ \ right.png);
     background-size:  5% 90%,10% 30%;
     background-repeat:  no-repeat, no-repeat;
     background-position: left bottom, right bottom;
@@ -245,7 +245,7 @@ li a{
     flex-direction: column;
     align-items: center;
 
-    background-image: url(/images/Scribble\ Dark\ airplane\ bottom.png), url(/images/Scribble\ Light\ aiplane\ right.png);
+    background-image: url(images/Scribble\ Dark\ airplane\ bottom.png), url(images/Scribble\ Light\ aiplane\ right.png);
     background-position: bottom left, right;
     background-repeat: no-repeat, no-repeat;
     background-size: 20% 30%, 40% 70%;
@@ -350,7 +350,7 @@ li a{
     min-height: 50%;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/container5\ scribble.png);
+    background-image: url(images/container5\ scribble.png);
     background-position: bottom left;
     background-repeat: no-repeat;
     background-size: 25% 10%;
@@ -450,7 +450,7 @@ p.para {
     text-align: center;
     position: relative;
 
-    background-image: url(/images/container7left.png), url(images/container7right.png);
+    background-image: url(images/container7left.png), url(images/container7right.png);
     background-repeat: no-repeat, no-repeat;
     background-size: 35% 9%, 30% 10%;
     background-position: right -4rem bottom, left top;
@@ -586,7 +586,7 @@ p.para {
     background-color: rgb(189, 186, 186);
     color: black;
     padding: 3rem;
-    background-image: url(/images/footer.png);
+    background-image: url(images/footer.png);
     background-repeat: no-repeat;
     background-size: 40% 30%;
     background-position: left -8rem  center ;
